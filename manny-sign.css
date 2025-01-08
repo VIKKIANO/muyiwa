@@ -1,0 +1,53 @@
+.full-page  {
+  margin-left: 800px;
+  margin-top: 300px;
+}
+.sign-up {
+  font-family: Arial;
+  font-size: 70px;
+  font-weight: bold;
+  color: goldenrod;
+}
+.inputs {
+  height: 80px;
+  width: 430px;
+  margin-top: 30px;
+}
+.inputs::placeholder {
+  font-family: Arial;
+  font-size: 25px;
+  padding-left: 13px;
+  font-weight: bold;
+  color: black;
+ 
+}
+.inputss {
+  height: 80px;
+  width: 890px;
+  margin-top: 30px;
+}
+.inputss::placeholder {
+  font-family: Arial;
+  font-size: 25px;
+  padding-left: 13px;
+  color: black;
+  font-weight: bold;
+}
+.texts {
+  font-family: Arial;
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+.sign-up-button {
+  width: 900px;
+  height: 90px;
+  margin-top: 40px;
+  color: white;
+  background-color: rgba(12, 53, 156, 0.886);
+  font-family: Arial;
+  font-size: 29px;
+  cursor: pointer;
+}
+.sign-up-button:hover {
+  background-color: rgb(67, 64, 64);
+}

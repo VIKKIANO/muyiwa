@@ -1,0 +1,50 @@
+.inputs {
+  width: 1220px;
+  height: 70px;
+  margin-top: 90px;
+  border-radius: 10px;
+}
+.inputs::placeholder {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px;
+}
+.welcome {
+  margin-top: 120px;
+  font-size: 130px;
+}
+.full-page {
+  margin-top: 320px;
+  margin-left: 1220px;
+}
+.log-in-button {
+  height: 90px;
+  margin-top: 60px;
+  width: 1220px;
+  background-color: rgb(43, 74, 226);
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 35px;
+  border: none;
+  border-radius: 10px;
+}
+.google-sign-in {
+  height: 100px;
+  margin-top: 60px;
+  width: 1220px;
+  background-color: grey;
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 35px;
+  border: none;
+  border-radius: 10px;
+}
+.google {
+width: 70px;
+height: 60px;
+margin-left: -850px;
+margin-top: 30px;
+}
